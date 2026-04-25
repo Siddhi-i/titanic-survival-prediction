@@ -37,6 +37,18 @@ I tried two models:
 - Random Forest  
 
 ---
+## 📊 Visualizations
+
+### Survival by Class
+![Survival by Class](survival_by_class.png)
+
+### Survival by Gender
+![Survival by Gender](survival_by_gender.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+---
 
 ## 📈 Results
 - Logistic Regression accuracy: **~79.8%**
@@ -72,3 +84,4 @@ I’m still learning, and I’d love to improve this further by trying more mode
 
 ## 👤 Author
 Siddhi
+If you found this useful, feel free to ⭐ the repo!
