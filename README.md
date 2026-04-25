@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-81%25-blueviolet)
 
 # 🚢 Titanic Survival Prediction
 
